@@ -20,9 +20,9 @@ a:hover {
   color: #6c5ce7;
 }
 .container {
-  width: 35%;
+  width: 85%;
   margin: 0 auto;
-  padding: 15px;
+  padding: 85px;
 }
 .btn-delete {
   background: #ff0000;
